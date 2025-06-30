@@ -31,7 +31,7 @@ Getting into: `AWS` • `Markdown` • CLI tools • QA platforms
 
 ---
 
-- 🖼️ You can peek at some of my design projects [here](https://your-canva-link.com)
+- 🖼️ You can peek at some of my design projects [here](https://christabelandrew.my.canva.site/)
 
 ---
 
